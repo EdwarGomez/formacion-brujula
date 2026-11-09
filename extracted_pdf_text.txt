@@ -1,0 +1,501 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLAN DE TRANSFERENCIA DE 
+CONOCIMIENTO  
+ 
+ 
+Valor agregado – Proyecto Brújula 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. Antecedentes y Contexto 
+ 
+El presente documento formaliza el Plan de Transferencia de Conocimiento para el Proyecto Brújula (RFP -
+BRUJULA-IA-2026-001), correspondiente al programa de capacitación comprometido por CNID como Valor 
+Agregado en la propuesta ganadora del proceso de selección de Partner de IA de Grupo LEMCO. 
+El plan responde directamente a los requisitos KNOW-01 y KNOW-02 del pliego, y ha sido ajustado conforme 
+a los acuerdos alcanzados en la sesión de alineación del 29 de octubre de 2026 con el equipo de Grupo 
+LEMCO. 
+ 
+2. Cambios Respecto a la Versión 1 
+ 
+La siguiente tabla resume los ajustes incorporados entre la versión original del RFP y la presente versión, 
+aprobados en la sesión del 29 de octubre de 2026: 
+ 
+Parámetro Versión 1 (RFP Original) Versión 2 (Ajustada — Nov 2026) 
+Orden de ejecución Ruta 1 (Técnica) primero Ruta 2 + Ruta 4 primero — los Champions ya 
+participan en la formación con la EAN y desean 
+empezar a usar los agentes 
+Franja horaria 2h de dictado + 2h 
+preparación 
+2h de dictado + 2h preparación = 4h total — 
+ajustado a la franja L-M-V 3:00–6:00 PM 
+Amazon Quick Incluido implícitamente Sesión dedicada (2.3) con foco en adopción, 
+dashboards conversacionales, RBAC y gobierno de 
+acceso 
+Kiro IDE Incluido implícitamente Sesión 1.4 dedicada a Kiro como herramienta de 
+desarrollo de agentes asistida por IA 
+Seguridad / RBAC Mencionado de forma 
+general 
+Tratado explícitamente en Sesión 3.1 (roles, perfiles, 
+control de acceso granular, IAM, Cognito) 
+Pausa de 
+implementación 
+No contemplada Diciembre 2026 libre de formación formal — foco 
+total en los tres MVPs a producción 
+Sesiones R4 
+(Refuerzo) 
+3 sesiones separadas 2 sesiones consolidadas — Challenger+Sky y 
+Habitel+Métricas — mayor eficiencia 
+Presupuesto total Sin cambio Sin cambio: 44 horas · 11 sesiones 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Parámetros Generales del Programa 
+ 
+Perfil CNID responsable Cloud Architect (CNID · Grupo HIL) 
+Tarifa por hora COP $320,000 (incluido como Valor Agregado — costo cero para 
+Grupo LEMCO) 
+Estructura por sesión 2 horas de dictado + 2 horas de preparación = 4 horas totales 
+Política de preparación Por cada 2 horas de sesión dictada, se asignan 2 horas equivalentes 
+de preparación 
+Modalidad Virtual sincrónica (Microsoft Teams / Meet) — opción presencial 
+previa coordinación 
+Franja horaria disponible Lunes, miércoles y viernes · 3:00 PM – 6:00 PM (COT) 
+Total sesiones 11 sesiones · 44 horas · COP $14,080,000 (Valor Agregado) 
+Entregables por sesión Presentación, material de referencia, grabación y laboratorio / 
+ejercicio cuando aplique 
+Idioma Español 
+ 
+4. Resumen Consolidado — 11 Sesiones · 44 Horas 
+ 
+El programa se organiza en cuatro rutas diferenciadas por audiencia y profundidad. La ejecución se divide 
+en dos fases, con una pausa en diciembre dedicada a la implementación de los MVPs a producción. 
+ 
+N° Ruta Título de la Sesión Fase Horas Audiencia 
+1 R2 – 
+Adopción 
+Fundamentos de IA Generativa 
+para Líderes 
+Fase 
+1 
+2h dictado 
++ 2h prep 
+Champions + Líderes 
+de Área 
+2 R2 – 
+Adopción 
+Taller Práctico de Prompting y 
+Asistentes 
+Fase 
+1 
+2h dictado 
++ 2h prep 
+Champions + Líderes 
+de Área 
+3 R4 – 
+Refuerzo 
+Refuerzo Challenger + Sky Fase 
+1 
+2h dictado 
++ 2h prep 
+Champions por 
+Negocio 
+4 R4 – 
+Refuerzo 
+Refuerzo Habitel + Métricas de 
+Adopción 
+Fase 
+1 
+2h dictado 
++ 2h prep 
+Champions por 
+Negocio 
+5 R2 – 
+Adopción 
+Amazon Q Business: Adopción y 
+Dashboards 
+Fase 
+1 
+2h dictado 
++ 2h prep 
+Champions + TI 
+6 R3 – 
+Entrega 
+Plataforma AWS, Seguridad y 
+Gobernanza 
+Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo TI + IA 
+7 R3 – 
+Entrega 
+Runbooks Operativos y FinOps Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo TI + IA 
+N° Ruta Título de la Sesión Fase Horas Audiencia 
+8 R1 – 
+Técnica 
+Amazon Bedrock: Modelos, API 
+y Optimización 
+Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo IA + TI 
+9 R1 – 
+Técnica 
+Agentes, AgentCore y Protocolo 
+MCP 
+Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo IA + TI 
+10 R1 – 
+Técnica 
+RAG, Knowledge Bases y 
+Guardrails 
+Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo IA + TI 
+11 R1 – 
+Técnica 
+Kiro: IDE de IA y Desarrollo de 
+Agentes 
+Fase 
+2 
+2h dictado 
++ 2h prep 
+Equipo IA + TI 
+ 
+5. Tabla de Totales por Ruta 
+ 
+Ruta Req. 
+RFP 
+Sesiones H. 
+Dictado 
+H. 
+Prep. 
+Total h. Audiencia 
+Ruta 1 — Técnica 
+(Bedrock, Agentes, MCP, 
+RAG, Kiro) 
+KNOW-
+01 
+4 8 8 16 Equipo IA + TI 
+Ruta 2 — Adopción (IA 
+para Líderes + Amazon Q 
+Business) 
+KNOW-
+02 
+3 6 6 12 Champions + 
+Líderes 
+Ruta 3 — Entrega 
+(Plataforma, Seguridad, 
+Runbooks) 
+KNOW-
+01 
+2 4 4 8 Equipo TI + IA 
+Ruta 4 — Refuerzo (Por 
+Unidad de Negocio) 
+KNOW-
+02 
+2 4 4 8 Champions por 
+negocio 
+TOTAL  11 22 22 44 — 
+ 
+Nota: Las sesiones propuestas representan el programa base de transferencia de conocimiento incluido 
+como Valor Agregado (COP $14,080,000 a costo cero para Grupo LEMCO). El número y contenido de las 
+sesiones podrá ajustarse durante la ejecución según las necesidades reales del equipo y los avances del 
+proyecto, previa alineación entre el Product Owner de Grupo LEMCO y el Scrum Master de CNID. 
+Sesiones adicionales más allá de las 44 horas incluidas podrán activarse bajo el modelo CNID Flex a la 
+tarifa vigente del perfil Cloud Architect (COP $320,000/hora). Las grabaciones y materiales son de uso 
+exclusivo de Grupo LEMCO y sus colaboradores directos. 
+ 
+ 
+ 
+6. Detalle de Sesiones — Fase 1 
+ 
+La Fase 1 arranca inmediatamente después de concluir el programa de formación con la EAN (previsto para 
+la semana del 9 de noviembre), aprovechando el impulso de los Champions y la familiaridad con los 
+conceptos básicos de IA. Cinco sesiones cubren adopción, uso práctico de los agentes del Proyecto Brújula, 
+Amazon Quick y los primeros refuerzos por negocio. 
+ 
+FASE 1  ·  5 Sesiones  ·  20 Horas 
+Rutas: R2 – Adopción  +  R4 – Refuerzo por Negocio 
+ 
+Sesión 1  ·  Fundamentos de IA Generativa para Líderes 
+ Sesión 1  Fundamentos de IA Generativa para Líderes 
+Ruta 2 — Adopción  ·  2h dictado · 2h preparación = 4h  ·  Champions + Líderes de Área 
+• Qué es y qué no es IA Generativa: modelos de lenguaje, foundation models, agentes autónomos 
+• Limitaciones reales de los LLMs: alucinaciones, actualización de conocimiento, privacidad 
+• Casos de uso reales en manufactura, logística y hotelería — referenciando los demos de Proyecto 
+Brújula 
+• Marco de IA Responsable: Ley 1581 de 2012, riesgos, consentimiento y gobernanza 
+• Cómo evaluar si un proceso es candidato a automatización con IA (viabilidad × impacto) 
+ 
+Entregable: Presentación ejecutiva, material de referencia y cuestionario de evaluación de casos 
+candidatos por área 
+ 
+Sesión 2  ·  Taller Práctico de Prompting y Asistentes 
+ Sesión 2  Taller Práctico de Prompting y Asistentes de IA 
+Ruta 2 — Adopción  ·  2h dictado · 2h preparación = 4h  ·  Champions + Líderes de Área 
+• Técnicas de prompting efectivo: zero-shot, few-shot, chain-of-thought, system prompts 
+• Framework CERO: Contexto, Especificidad, Rol, Output — con ejercicios en vivo 
+• Uso práctico de los agentes del Proyecto Brújula: Challenger (costos), Sky (CEDI), Habitel 
+(eventos) 
+• Buenas prácticas de interacción con asistentes conversacionales empresariales 
+• Errores comunes y cómo evitarlos — alucinaciones, prompt injection, sesgo 
+ 
+Entregable: Guía de prompts recomendados por caso de uso (Challenger, Sky, Habitel) + grabación 
+de la sesión 
+ 
+ 
+ 
+ 
+ 
+Sesión 3  ·  Refuerzo Challenger + Sky 
+ Sesión 3  Refuerzo por Negocio: Challenger — Manufactura · Sky — Logística 
+Ruta 4 — Refuerzo  ·   2h dictado · 2h preparación = 4h  ·  Champions de Challenger y Grupo Sky 
+• [Challenger] Uso del agente de análisis de costos y gastos contables: consultas, filtros y drill-down 
+por Centro de Costo 
+• [Challenger] Interpretación de resultados y detección de anomalías — comparativo presupuesto 
+vs. real vs. año anterior 
+• [Challenger] Cómo escalar a nuevos reportes o reglas de negocio sin modificar código 
+• [Sky] Tablero conversacional WMS: consulta de KPIs (OTIF, IRA, ocupación volumétrica, muelles) 
+• [Sky] Vista 3D del CEDI: navegación, filtros por bodega y exportación de resultados 
+• [Sky] Consultas avanzadas en lenguaje natural — ejemplos con datos reales de operación 
+ 
+Entregable: Manual de usuario por negocio (Challenger y Sky): guía de consultas frecuentes, 
+interpretación y flujo de escalamiento 
+ 
+Sesión 4  ·  Refuerzo Habitel + Métricas de Adopción 
+ Sesión 4  Refuerzo por Negocio: Habitel — Hotelería · Métricas de Adopción del Programa 
+Ruta 4 — Refuerzo  ·  2h dictado · 2h preparación = 4h  ·  Champions de Habitel + Líderes del 
+Programa 
+• [Habitel] Flujo completo del chatbot de cotización de eventos vía WhatsApp y web: captura, 
+propuesta y PDF 
+• [Habitel] Flujo de aprobación ejecutiva vía Teams: umbrales, notificaciones, respuesta y 
+seguimiento automático 
+• [Habitel] Manejo de excepciones: solicitudes fuera de catálogo, disponibilidad limitada, 
+descuentos especiales 
+• Métricas de adopción del programa: usuarios activos, preguntas frecuentes, calidad de 
+respuestas, valor generado 
+• Cómo identificar y escalar oportunidades de mejora desde el área al equipo de IA 
+ 
+Entregable: Manual de usuario Habitel + Dashboard de métricas de adopción (plantilla) + grabación 
+de la sesión 
+ 
+Sesión 5  ·  Amazon Quick: Adopción y Dashboards Conversacionales 
+ Sesión 5  Amazon Quick: Adopción, Dashboards Conversacionales y Gobierno de Acceso 
+Ruta 2 — Adopción  ·  2h dictado · 2h preparación = 4h  ·  Champions + Equipo TI 
+• Qué es Amazon Qucik y cómo se diferencia de los agentes custom de Amazon Bedrock 
+• Espacios, datasets, topics y configuración de fuentes de datos en Quick 
+• Creación de dashboards conversacionales y preguntas en lenguaje natural sobre datos 
+empresariales 
+• Gobernanza de acceso: RBAC (control por rol), Row-Level Security, perfiles de usuario y auditoría 
+• Casos de uso inmediatos en Grupo LEMCO: reportes financieros, KPIs de operación, consultas de 
+documentos 
+ 
+Entregable: Configuración guiada de un Topic de Amazon Quick sobre una fuente de datos del grupo 
++ grabación 
+ 
+7. Detalle de Sesiones — Fase 2 
+ 
+La Fase 2 se estima arranca en enero de 2027 con los tres MVPs ya en producción. Esto permite que las 
+sesiones técnicas de las Rutas 1 y 3 sean completamente prácticas: los participantes podrán ver el código 
+real, la arquitectura desplegada y los runbooks operativos de los sistemas que ya están usando. 
+ 
+FASE 2  ·  6 Sesiones  ·  24 Horas 
+Rutas: R3 – Entrega  +  R1 – Técnica 
+ 
+Sesión 6  ·  Plataforma AWS, Seguridad y Gobernanza 
+ Sesión 6  Arquitectura Desplegada, Seguridad y Gobernanza de Identidad 
+Ruta 3 — Entrega  ·  2h dictado · 2h preparación = 4h  ·  Equipo TI + Equipo IA 
+• Recorrido completo de la arquitectura en producción: servicios AWS por agente (Bedrock, 
+Lambda, Fargate, S3, DynamoDB) 
+• VPC, subnets, security groups, IAM roles y políticas de mínimo privilegio 
+• Gestión de identidad: Amazon Cognito, integración con Azure Entra ID (SSO/MFA), RBAC granular 
+• Control de acceso por rol y por negocio: cómo se segmenta la información entre Challenger, Sky y 
+Habitel 
+• Infraestructura como código (IaC con CDK): despliegue, actualización y rollback de los stacks de 
+producción 
+ 
+Entregable: Documento de arquitectura as-built (as-deployed) de los tres MVPs + diagrama de 
+seguridad y RBAC 
+ 
+Sesión 7  ·  Runbooks Operativos, Monitoreo y FinOps 
+ Sesión 7  Runbooks Operativos, Monitoreo de Plataforma y Gestión de Costos AWS 
+Ruta 3 — Entrega  ·  2h dictado · 2h preparación = 4h  ·  Equipo TI + Equipo IA 
+• Runbook de operación diaria: monitoreo con CloudWatch, alertas configuradas, umbrales y 
+respuesta a incidentes 
+• Escalamiento N1→N2→N3: proceso, canales de contacto, tiempos de respuesta (SLA < 2h para 
+P1) 
+• Actualización de modelos de Amazon Bedrock: validación, aprobación y cambio de versión sin 
+downtime 
+• Re-indexación de Knowledge Bases: cuándo hacerla, cómo validar la calidad post-actualización 
+• FinOps: presupuestos y alertas de costos AWS, análisis de consumo por agente, optimización 
+progresiva 
+ 
+Entregable: Runbook operativo completo documentado en repositorio Git + Dashboard de monitoreo 
+y costos configurado 
+ 
+Sesión 8  ·  Amazon Bedrock: Modelos, API y Optimización 
+ Sesión 8  Amazon Bedrock: Modelos Fundacionales, API y Estrategias de Optimización 
+Ruta 1 — Técnica  ·  2h dictado · 2h preparación = 4h  ·  Equipo IA + TI 
+• Arquitectura de Amazon Bedrock: APIs (InvokeModel, Converse), playground, SDKs y 
+configuración de acceso 
+• Catálogo de modelos disponibles: Claude (Anthropic), Amazon Nova, Meta Llama, Mistral — 
+diferencias y casos de uso 
+• Parámetros de inferencia: temperatura, top-p, max tokens — cómo afectan calidad, costo y 
+latencia 
+• Estrategias de optimización de costos: batch inference (−50%), prompt caching (−90%), model 
+routing automático 
+• Laboratorio: invocar modelos desde consola y código Python — comparar costos y latencias en 
+vivo 
+ 
+Entregable: Notebook de laboratorio con ejemplos de invocación, comparativa de modelos y 
+estrategias de optimización 
+ 
+Sesión 9  ·  Agentes, AgentCore y Protocolo MCP 
+ Sesión 9  Agentes Autónomos, Amazon Bedrock AgentCore y Protocolo MCP 
+Ruta 1 — Técnica  ·  2h dictado · 2h preparación = 4h  ·  Equipo IA + TI 
+• Amazon Bedrock Agents y AgentCore Runtime: orquestación, memoria, observabilidad e 
+identidad 
+• Ciclo Sense-Plan-Act-Loop: cómo el agente razona, planifica y ejecuta herramientas 
+• Protocolo MCP (Model Context Protocol): transportes stdio y HTTP+SSE, servidores, clientes, 
+capacidades y arnés 
+• Patrones de orquestación: multi-agente con supervisor/router, Human-in-the-Loop, Tool Calling y 
+return of control 
+• Laboratorio: recorrido técnico del agente Challenger de producción — arquitectura, tools y flujo 
+de ejecución 
+ 
+Entregable: Diagrama de arquitectura de agentes actualizado + guía de patrones MCP para el 
+equipo de desarrollo 
+ 
+Sesión 10  ·  RAG, Knowledge Bases y Guardrails 
+ Sesión 10  Retrieval Augmented Generation, Amazon Bedrock Knowledge Bases y Guardrails 
+Ruta 1 — Técnica  ·  2h dictado · 2h preparación = 4h  ·  Equipo IA + TI 
+• Retrieval Augmented Generation (RAG): arquitectura, pipeline de indexación y consulta, 
+evaluación de relevancia 
+• Amazon Bedrock Knowledge Bases: ingesta, chunking, embeddings (Titan, Cohere), almacenes 
+vectoriales (S3 Vectors, Aurora pgvector) 
+• Estrategias de reranking y evaluación de calidad de recuperación — métricas y umbrales 
+prácticos 
+• Amazon Bedrock Guardrails: filtros de contenido, topic denial, PII detection, contextual 
+grounding, anti-prompt injection 
+• Laboratorio: configurar una Knowledge Base con documentación interna del grupo — validación 
+de calidad en vivo 
+ 
+Entregable: Knowledge Base de referencia configurada + política de Guardrails documentada por 
+agente 
+ 
+Sesión 11  ·  Kiro: IDE de IA y Desarrollo de Agentes 
+ Sesión 11  Kiro IDE: Desarrollo de Agentes Asistido por IA 
+Ruta 1 — Técnica  ·  2h dictado · 2h preparación = 4h  ·  Equipo IA + TI 
+• Introducción a Kiro IDE: spec-driven development, hooks, steering y flujos de trabajo con IA 
+integrada 
+• Cómo el equipo de CNID usó Kiro para construir los demos del Proyecto Brújula — caso de 
+estudio real 
+• Configuración de Kiro con acceso a Amazon Bedrock: modelos, conexiones y personalización 
+• Construcción de un agente simple en Kiro: del spec al código funcional en tiempo real 
+• Integración de Kiro en el ciclo de desarrollo del CoE de IA de Grupo LEMCO: estándares, revisión y 
+control de versiones 
+ 
+Entregable: Entorno Kiro configurado para el equipo de IA de Grupo LEMCO + guía de inicio y 
+estándares de desarrollo 
+ 
+8. Certificación AWS AI Practitioner — 17 Vouchers AIF-C01 
+ 
+Como parte del Valor Agregado comprometido en la Carta de Valor Agregado (Anexo D del RFP), AWS + CNID 
+otorgan 17 vouchers para la certificación AWS Certified AI Practitioner (AIF-C01). El programa de formación 
+del presente plan está alineado con los cinco dominios del examen para maximizar la tasa de aprobación del 
+equipo. 
+Ruta Recomendada hacia la Certificación 
+La secuencia sugerida para maximizar la tasa de aprobación: 
+• Completar las sesiones de capacitación CNID correspondientes a su ruta (Rutas 1, 2, 3 o 4 según el 
+perfil). 
+• Complementar con recursos de preparación en AWS Skill Builder (acceso gratuito para titulares de 
+cuenta AWS). 
+• Agendar el examen en Pearson VUE (presencial o remoto supervisado) utilizando el voucher asignado. 
+• Obtener la certificación oficial con puntaje ≥ 700/1000. Validez: 3 años. 
+ 
+Nota: Cada voucher cubre un (1) intento de examen por participante. La obtención de la certificación 
+está sujeta a que el participante apruebe el examen con el puntaje mínimo requerido (700/1000). CNID 
+se compromete a que el programa de capacitación cubra los cinco dominios del examen para maximizar 
+la preparación de los participantes. La vigencia de los vouchers y las condiciones de uso son definidas 
+por AWS + CNID. 
+ 
+9. Condiciones y Premisas del Programa 
+ 
+Las siguientes condiciones rigen la ejecución del presente plan de transferencia de conocimiento: 
+ 
+C1 — Valor Agregado sin costo adicional: El programa base de 11 sesiones (44 horas, COP $14,080,000) se 
+entrega como Valor Agregado de CNID a costo cero para Grupo LEMCO, conforme a los términos 
+formalizados en la Carta de Valor Agregado (Anexo D del RFP). 
+C2 — Ajustabilidad del programa: El número y contenido de las sesiones podrá ajustarse durante la 
+ejecución según las necesidades reales del equipo y los avances del proyecto, previa alineación entre el 
+Product Owner de Grupo LEMCO y el Scrum Master de CNID. 
+C3 — Sesiones adicionales: Sesiones más allá de las 44 horas incluidas podrán activarse bajo el modelo CNID 
+Flex a la tarifa vigente del perfil Cloud Architect. 
+C4 — Franja horaria: Las sesiones se programan en la franja lunes, miércoles y viernes de 3:00 PM a 6:00 
+PM (COT), confirmada por el cliente. El cronograma se deberá formalizar con Grupo LEMCO en la semana 
+previa a cada sesión. 
+C5 — Asistencia y quórum: Se recomienda un mínimo del 70% de asistencia por sesión para garantizar la 
+continuidad del programa. En caso de inasistencia justificada, la grabación queda disponible para los 
+participantes. 
+C6 — Materiales y grabaciones: Los materiales, presentaciones, ejercicios y grabaciones de cada sesión son 
+de uso exclusivo de Grupo LEMCO y sus colaboradores directos. No podrán reproducirse ni compartirse con 
+terceros sin autorización previa de CNID. 
+C7 — Prerrequisitos: Las sesiones de las Rutas 1 y 3 (Técnica y Entrega) requieren que los participantes 
+cuenten con acceso a la consola de AWS y credenciales válidas. TI de Grupo LEMCO debe garantizar este 
+acceso antes del inicio de la Fase 2. 
+C8 — Pausa de diciembre: No se proponen sesiones formales durante diciembre 2026 para concentrar los 
+esfuerzos del equipo en la implementación de los MVPs a producción. Esta pausa no reduce el total de horas 
+comprometidas. 
+C9 — Reasignación de horas de preparación: Las horas de preparación podrán ser reasignadas por el equipo 
+CNID para actividades de entrega directa al cliente (laboratorios, ejercicios prácticos, acompañamiento) 
+según la complejidad del tema, a discreción del equipo. 
+ 
+Juan David Buriticá 
+Account Manager 
+CNID 
+AWS Partner 
+ 
+Documento confidencial — Uso exclusivo de Grupo LEMCO  ·  RFP-BRUJULA-IA-2026-001 
