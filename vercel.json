@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "name": "formacion-brujula",
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
   "cleanUrls": true,
   "trailingSlash": false
 }
