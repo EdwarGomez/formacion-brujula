@@ -384,6 +384,7 @@ if st.session_state.slide_idx == 0:
             font=dict(color="#0F172A", size=12)
         )
         st.plotly_chart(fig_adop, use_container_width=True, theme=None, config={"displayModeBar": False})
+        st.caption("📌 **Fuente de los datos:** *Work Trend Index Annual Report* (Microsoft & LinkedIn, 31,000 profesionales encuestados en 31 países, con corte regional para América Latina y Colombia).")
 
     st.info("💡 **Meta para los Champions de Grupo LEMCO:** Pasar de consultar un chat genérico a operar asistentes conectados a datos reales del negocio, protegiendo la información sujeta a la Ley 1581 de 2012 y aplicando metodologías estructuradas de consulta.")
 
